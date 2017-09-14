@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="welcom">Welcome</string>
+    <string name="ListOfEmployee">List Of Employee</string>
+    <string name="Name">Name : </string>
+    <string name="Age">Age : </string>
+    <string name="Gender">Gender : </string>
+    <string name="Designation">Designation : </string>
+    <string name="LeaveSanction">Leave Sanction : </string>
+    <string name="SanctionedLeave">Sanctioned Leave : </string>
+    <string name="Submit">SUBMIT</string>
+    <string name="Message">Message</string>
+    <string name="leaveSanctioned">Leave has Sanctioned</string>
+    <string name="Ok">OK</string>
+    <string name="ConnectingTOServer">Connecting to Server</string>
+    <string name="pleaseWait">Please wait..</string>
+    <string name="NoInternet">Please check your internet connection</string>
+    <string-array name="spinner_array">
+        <item>One day</item>
+        <item>Half day</item>
+        <item>More than a day</item>
+    </string-array>
+</resources>
